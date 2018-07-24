@@ -5,4 +5,4 @@ puts "#{a}"".upcase.reverse
 puts "#{b}"".swapcase.gsub("s","z")
 end
 
-crazy_strings
+crazy_strings ("Hello Friends", "Hello World")
